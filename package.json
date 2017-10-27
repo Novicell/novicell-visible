@@ -1,0 +1,33 @@
+{
+  "name": "novicell-visible",
+  "version": "1.0.0",
+  "description": "A script that checks whether elements are within the users visible viewport.",
+  "main": "js/novicell.visible.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Novicell/novicell-visible.git"
+  },
+  "keywords": [
+    "novicell",
+    "visible"
+  ],
+  "author": "Novicell",
+  "contributors": [
+    {
+      "name": "Brian Stefan Jensen",
+      "email": "bsj@novicell.dk"
+    },
+    {
+      "name": "Danni Larsen",
+      "email": "dla@novicell.dk"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Novicell/novicell-visible/issues"
+  },
+  "homepage": "https://github.com/Novicell/novicell-visible#readme"
+}
